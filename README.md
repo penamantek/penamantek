@@ -1,6 +1,7 @@
 - 👋 probably traveling to the bog
-- 🌱 currently learning Java and Python :)
-- 📫 how to reach me: instagram: @k.y1a
+- 🌱 currently learning Java and Python
+- 📫 instagram: @k.y1a
+  -  feel free to reach out to me there :)
 
 <!---
 penamantek/penamantek is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
