@@ -1,6 +1,4 @@
-- 👋 probably traveling to the bog
-- 🌱 currently learning Java and Python
-- 📫 instagram: @k.y1a
+- 👋 traveling to the bog
 
 <!---
 penamantek/penamantek is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
